@@ -5,10 +5,6 @@
 # 
 # ## Machine Learning Algorithm For Efficient Power Theft Detection Using Smart Meter Data
 
-# ## Dataset - The Smart Meter dataset is provided by Irish Social Science Data Archive‟s (ISSDA), Ireland. The dataset used for the experiment is the subset of smart meter dataset of Ireland in December 2010. The data set considered in this work is residential smart meter data. The data contains the information about the customer id, code for date/time, electricity consumption for every 30 minutes (in KWh).
-
-# ### We like to acknowledge with thanks to Irish Social Science Data Archive Center for providing us with the access to the Smart Meter Data Archive that had a vital role for this research work. 
-
 # In[14]:
 
 
